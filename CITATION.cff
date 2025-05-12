@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+title: "absSim"
+message: If you use this software, please cite it using the metadata from this file.
+type: software
+authors:
+  - given-names: Daniel Leonidovich
+    family-names: Wechsler
+    email: d.wechsler@bbk.ac.uk
+    orcid: https://orcid.org/0000-0003-0700-8702
+    affiliation: Birkbeck, University of London
+repository-code: https://github.com/dlwech/absSim
+version: 1.0.0
+date-released: 2025-04-11

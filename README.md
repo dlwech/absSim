@@ -3,6 +3,9 @@ Function for computing an absolute similarity (i.e., reversed absolute differenc
 
 Tested on R versions 4.3.2 and 4.4.3 from within RStudio 2024.09.01 (Build 394). Optional plots and histograms implemented for RMarkdown assuming block settings of `fig.width=5, fig.height=5`. 
 
+If using this tool in published or presented work, please cite it as below:
+* Wechsler, D. L. (2025). absSim (Version 1.0.0). https://github.com/dlwech/absSim
+
 ## Usage
 **Warning:** This tool is not guaranteed to be appropriate for all types of data and research question. Before drawing any inferences from findings, it is crucial to thoroughly consider what any similarity score may represent in your specific sample, and to rigorously assess diagnostics of any subsequent analyses, ensuring all statistical assumptions are met. 
 It is always advisable to consider whether there is a potentially more effective or appropriate way to answer a given research question. 
